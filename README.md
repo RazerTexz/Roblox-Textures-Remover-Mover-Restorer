@@ -1,4 +1,4 @@
-This is an automatic roblox textures remover using .bat file :)
+This is an automatic roblox textures remover, mover, and restorer using .bat file :)
 
 How To Use:
 
